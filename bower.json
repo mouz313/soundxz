@@ -1,0 +1,21 @@
+{
+  "name": "soundxz",
+  "description": "Nothing",
+  "main": "null",
+  "authors": [
+    "M Usman <mu03209461833@gmail.com>"
+  ],
+  "license": "mit",
+  "keywords": [
+    "soundxz"
+  ],
+  "homepage": "yes",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
